@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.5.2 Safari/537.36" version="29.5.2">
   <diagram name="Page-1" id="YEPq0QoHDC58UsUPWpZ2">
-    <mxGraphModel dx="2276" dy="2082" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2751" dy="2409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -882,16 +882,6 @@
         </mxCell>
         <mxCell id="QHTiQXVM_fQRAgO0C6-C-316" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Video DB" vertex="1">
           <mxGeometry height="30" width="70" x="1216.4800000000002" y="452.5" as="geometry" />
-        </mxCell>
-        <mxCell id="QHTiQXVM_fQRAgO0C6-C-317" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.153;entryDx=0;entryDy=0;entryPerimeter=0;" target="QHTiQXVM_fQRAgO0C6-C-267">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1605.4800000000002" y="1473.5" />
-              <mxPoint x="1633.4800000000002" y="1473.5" />
-              <mxPoint x="1633.4800000000002" y="1511.5" />
-            </Array>
-            <mxPoint x="1605.5714285714294" y="1419.3000000000002" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="QHTiQXVM_fQRAgO0C6-C-318" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Filtering Videos&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="130" x="891.8100000000002" y="843.3499999999999" as="geometry" />
